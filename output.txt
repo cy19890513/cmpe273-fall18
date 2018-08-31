@@ -4,4 +4,17 @@ Second Call Date Fri, 31 Aug 2018 05:53:30 GMT
 Third Call Date Fri, 31 Aug 2018 05:53:31 GMT
 
 
+YangMacs-Mac-mini:cmpe273-fall18 yang$ python3 http_async_call.py 
+Task A SLEEP 2 secs 2018-08-30 23:25:31.291857
+
+Task B SLEEP 4 secs 2018-08-30 23:25:31.292002
+
+Task C SLEEP 3 secs 2018-08-30 23:25:31.292067
+
+Task A HTTP Call Date Fri, 31 Aug 2018 06:25:34 GMT
+Task C HTTP Call Date Fri, 31 Aug 2018 06:25:35 GMT
+Task B HTTP Call Date Fri, 31 Aug 2018 06:25:36 GMT
+Total time: 5.383613348007202
+
+
 
