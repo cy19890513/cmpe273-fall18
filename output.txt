@@ -1,0 +1,7 @@
+YangMacs-Mac-mini:cmpe273-fall18 yang$ python3 http_call.py 
+First Call Date Fri, 31 Aug 2018 05:53:30 GMT
+Second Call Date Fri, 31 Aug 2018 05:53:30 GMT
+Third Call Date Fri, 31 Aug 2018 05:53:31 GMT
+
+
+
